@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "GoosberrySMP.aternos.me",
+    "port":  59421,
     "version": "",
     "try-creative": false
   },
